@@ -3,7 +3,7 @@
 
 簡介
 ==================================
-關於 透過RecyclerView的ItemDecoration類, 實現在RecyclerView上面繪製想要的圖形                                       
+關於 透過RecyclerView的ItemDecoration類, 在RecyclerView上面繪圖, 實現淡化的效果                                     
 取材自RecycleViewDemo11, 修改而成
 
 RecycleViewDemo11                                     
